@@ -1,0 +1,118 @@
+Ac	Actinium	from Greek aktinos	89	[227][1]	 	7
+Ag	Silver	Latin argentum	47	107.8682(2)[2]	11	5
+Al	Aluminium (Aluminum)	Latin alumen	13	26.9815386(8)	13	3
+Am	Americium	the Americas	95	[243][1]	 	7
+Ar	Argon	Greek argon	18	39.948(1)[2][3]	18	3
+As	Arsenic	Greek arsenikos	33	74.92160(2)	15	4
+At	Astatine	Greek astatos	85	[210][1]	17	6
+Au	Gold	Latin aurum	79	196.966569(4)	11	6
+B	Boron	borax	5	10.811(7)[2][3][4]	13	2
+Ba	Barium	Greek barys	56	137.327(7)	2	6
+Be	Beryllium	beryl	4	9.012182(3)	2	2
+Bh	Bohrium	Niels Bohr	107	[264][1]	7	7
+Bi	Bismuth	from German wissmuth	83	208.98040(1)	15	6
+Bk	Berkelium	Berkeley, California	97	[247][1]	 	7
+Br	Bromine	Greek bromos	35	79.904(1)	17	4
+C	Carbon	Latin carbo	6	12.0107(8)[2][3]	14	2
+Ca	Calcium	Latin calx	20	40.078(4)[2]	2	4
+Cd	Cadmium	from Greek kadmia	48	112.411(8)[2]	12	5
+Ce	Cerium	Ceres	58	140.116(1)[2]	 	6
+Cf	Californium	State and University of California	98	[251][1]	 	7
+Cl	Chlorine	Greek chloros	17	35.453(2)[2][3][4]	17	3
+Cm	Curium	Pierre and Marie Curie and the traditional -um ending	96	[247][1]	 	7
+Cn	Copernicium	Nicolaus Copernicus	112	[285][1]	12	7
+Co	Cobalt	from German kobold	27	58.933195(5)	9	4
+Cr	Chromium	Greek chroma	24	51.9961(6)	6	4
+Cs	Caesium (Cesium)	Latin caesius	55	132.9054519(2)	1	6
+Cu	Copper	Latin Cuprum	29	63.546(3)[3]	11	4
+Db	Dubnium	Dubna, Russia	105	[262][1]	5	7
+Ds	Darmstadtium	Darmstadt, Germany	110	[271][1]	10	7
+Dy	Dysprosium	Greek dysprositos	66	162.500(1)[2]	 	6
+Er	Erbium	Ytterby, Sweden	68	167.259(3)[2]	 	6
+Es	Einsteinium	Albert Einstein	99	[252][1]	 	7
+Eu	Europium	Europe	63	151.964(1)[2]	 	6
+F	Fluorine	Latin fluo	9	18.9984032(5)	17	2
+Fe	Iron	Latin ferrum	26	55.845(2)	8	4
+Fm	Fermium	Enrico Fermi	100	[257][1]	 	7
+Fr	Francium	France	87	[223][1]	1	7
+Ga	Gallium	Latin Gallia	31	69.723(1)	13	4
+Gd	Gadolinium	gadolinite	64	157.25(3)[2]	 	6
+Ge	Germanium	Germany	32	72.64(1)	14	4
+H	Hydrogen	Greek hydrogenes	1	1.00794(7)[2][3][4]	1	1
+He	Helium	Greek helios	2	4.002602(2)[2][3]	18	1
+Hf	Hafnium	Latin Hafnia	72	178.49(2)	4	6
+Hg	Mercury	Latin hydrargyrum	80	200.59(2)	12	6
+Ho	Holmium	Latin Holmia	67	164.930 32(2)	 	6
+Hs	Hassium	Hesse, Germany	108	[277][1]	8	7
+I	Iodine	Greek ioeides	53	126.904 47(3)	17	5
+In	Indium	indigo blue	49	114.818(3)	13	5
+Ir	Iridium	Greek iris	77	192.217(3)	9	6
+K	Potassium (Kalium)	Latin kalium	19	39.0983(1)	1	4
+Kr	Krypton	Greek kryptos	36	83.798(2)[2][4]	18	4
+La	Lanthanum	Greek lanthanien	57	138.90547(7)[2]	 	6
+Li	Lithium	Greek lithos	3	6.941(2)[2][3][4][5]	1	2
+Lr	Lawrencium	Ernest O. Lawrence	103	[262][1]	3	7
+Lu	Lutetium	Latin Lutetia	71	174.967(1)[2]	3	6
+Md	Mendelevium	Dmitri Mendeleyev	101	[258][1]	 	7
+Mg	Magnesium	Magnesia, Greece	12	24.3050(6)	2	3
+Mn	Manganese	Latin magnes	25	54.938045(5)	7	4
+Mo	Molybdenum	Greek molybdos	42	95.94(2)[2]	6	5
+Mt	Meitnerium	Lise Meitner	109	[268][1]	9	7
+N	Nitrogen	Greek nitron	7	14.0067(2)[2][3]	15	2
+Na	Sodium	Latin natrium	11	22.98976928(2)	1	3
+Nb	Niobium	Niobe	41	92.906 38(2)	5	5
+Nd	Neodymium	Greek neos didymos	60	144.242(3)[2]	 	6
+Ne	Neon	Greek neos	10	20.1797(6)[2][4]	18	2
+Ni	Nickel	German kupfernickel	28	58.6934(2)	10	4
+No	Nobelium	Alfred Nobel	102	[259][1]	 	7
+Np	Neptunium	Neptune	93	[237][1]	 	7
+O	Oxygen	Greek oxys	8	15.9994(3)[2][3]	16	2
+Os	Osmium	Greek osme	76	190.23(3)[2]	8	6
+P	Phosphorus	Greek phosphoros	15	30.973762(2)	15	3
+Pa	Protactinium	Greek protos and actinium	91	231.03588(2)[1]	 	7
+Pb	Lead	Latin plumbum	82	207.2(1)[2][3]	14	6
+Pd	Palladium	Pallas (genitive Pallados)	46	106.42(1)[2]	10	5
+Pm	Promethium	Prometheus	61	[145][1]	 	6
+Po	Polonium	Poland	84	[210][1]	16	6
+Pr	Praseodymium	Greek prasios	59	140.90765(2)	 	6
+Pt	Platinum	Greek platina	78	195.084(9)	10	6
+Pu	Plutonium	Pluto	94	[244][1]	 	7
+Ra	Radium	Latin radius	88	[226][1]	2	7
+Rb	Rubidium	Latin rubidus	37	85.4678(3)[2]	1	5
+Re	Rhenium	German Rheinprovinz	75	186.207(1)	7	6
+Rf	Rutherfordium	Ernest Rutherford	104	261[1]	4	7
+Rg	Roentgenium	Wilhelm Conrad Röntgen	111	[272][1]	11	7
+Rh	Rhodium	Greek rhodon	45	102.905 50(2)	9	5
+Rn	Radon	radium and emanation	86	[220][1]	18	6
+Ru	Ruthenium	Latin Ruthenia	44	101.07(2)[2]	8	5
+S	Sulfur (Sulphur)	Latin sulfur	16	32.065(5)[2][3]	16	3
+Sb	Antimony	Latin stibium	51	121.760(1)[2]	15	5
+Sc	Scandium	Scandinavia	21	44.955912(6)	3	4
+Se	Selenium	Greek selene	34	78.96(3)[3]	16	4
+Sg	Seaborgium	Glenn T. Seaborg	106	[266][1]	6	7
+Si	Silicon	Latin silex	14	28.0855(3)[3]	14	3
+Sm	Samarium	samarskite	62	150.36(2)[2]	 	6
+Sn	Tin	Latin stannum	50	118.710(7)[2]	14	5
+Sr	Strontium	Gaelic Strontian	38	87.62(1)[2][3]	2	5
+Ta	Tantalum	King Tantalus	73	180.94788(2)	5	6
+Tb	Terbium	Ytterby, Sweden	65	158.92535(2)	 	6
+Tc	Technetium	Greek technetos	43	[98][1]	7	5
+Te	Tellurium	Greek tellus	52	127.60(3)[2]	16	5
+Th	Thorium	Thor	90	232.03806(2)[1][2]	 	7
+Ti	Titanium	the Titans	22	47.867(1)	4	4
+Tl	Thallium	Greek thallos	81	204.3833(2)	13	6
+Tm	Thulium	Thule and the traditional -ium ending	69	168.93421(2)	 	6
+U	Uranium	Uranus	92	238.02891(3)[1][2][4]	 	7
+Uuh	Ununhexium	Latin uni, uni, and Greek hex	116	[292][1]	16	7
+Uuo	Ununoctium	Latin uni, uni, and oct	118	[294][1]	18	7
+Uup	Ununpentium	Latin uni, uni, and Greek pent	115	[288][1]	15	7
+Uuq	Ununquadium	Latin uni, uni, and quadr	114	[289][1]	14	7
+Uus	Ununseptium	Latin uni, uni, and Greek sept	117	[295][1]	17	7
+Uut	Ununtrium	Latin uni, uni, and Greek tri	113	[284][1]	13	7
+V	Vanadium	Vanadis	23	50.9415(1)	5	4
+W	Tungsten	German wolfram	74	183.84(1)	6	6
+Xe	Xenon	Greek xenos	54	131.293(6)[2][4]	18	5
+Y	Yttrium	Ytterby, Sweden	39	88.90585(2)	3	5
+Yb	Ytterbium	Ytterby, Sweden	70	173.04(3)[2]	 	6
+Zn	Zinc	German zink	30	65.409(4)	12	4
+Zr	Zirconium	zircon	40	91.224(2)[2]	4	5
